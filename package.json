@@ -1,6 +1,6 @@
 {
 	"name": "brunch-chilidogsparser",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Automatically sparses tiled map files in app/assets/maps.",
 	"keywords": "",
 	"main": "index.js",
